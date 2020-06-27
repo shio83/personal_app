@@ -67,3 +67,7 @@ group :production do
 end
 
 gem 'haml-rails'
+gem "font-awesome-rails"
+gem 'devise'
+gem 'kaminari'
+gem 'rails-i18n'
