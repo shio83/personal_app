@@ -71,3 +71,4 @@ gem "font-awesome-rails"
 gem 'devise'
 gem 'kaminari'
 gem 'rails-i18n'
+gem 'materialize-sass'
