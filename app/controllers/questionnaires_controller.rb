@@ -1,9 +1,9 @@
 class QuestionnairesController < ApplicationController
 
-  def introduction
-  end
-
   def index
+  end
+  
+  def new
   end
 
 
